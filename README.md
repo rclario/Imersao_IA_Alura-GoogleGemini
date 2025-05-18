@@ -26,51 +26,26 @@ Avaliação de compatibilidade: Análise do alinhamento entre o perfil do candid
 🛠️ Tecnologias Utilizadas
 Modelo de Linguagem: Google Gemini
 Linguagem de Programação: Python
-Frameworks/Bibliotecas: LangChain, (Outras a especificar)
-APIs: (Especificar APIs de busca de emprego, se houver)
 ⚙️ Como Executar o Projeto
 Pré-requisitos:
 Conta no Google Cloud Platform com acesso à API do Gemini.
 Python 3.x instalado.
 Pip instalado.
 Chave de API do Gemini configurada.
-(Outras dependências do projeto)
-Instalação:
-git clone <URL do repositório>
-cd <nome do diretório>
-pip install -r requirements.txt
-
+Executar no Colab conforme instruções das últimas duas aulas da imersão IA - Alura & Google Gemini
 
 Configuração:
 Configure as variáveis de ambiente necessárias, incluindo a chave da API do Gemini.
 (Outras configurações específicas do projeto)
-Execução:
-python main.py
-
-
-📂 Estrutura do Projeto (sugerida pelo Gemini)
-├── README.md
-├── requirements.txt
-├── src/
-│   ├── agents/
-│   │   ├── profile_identifier.py
-│   │   ├── opportunity_finder.py
-│   │   ├── resume_creator.py
-│   │   └── match_reviewer.py
-│   ├── main.py
-│   └── utils.py
-├── data/
-└── docs/
-
 
 🤝 Contribuição
 Inicialmente, apenas vote neste projeto.
-📄 Licença
-(Adicionar informações sobre a licença)
+
 🧑‍💻 Autor
 Rogério de Cerqueira Lario
-Seu GitHub
+
 ✨ Status do Projeto
 Preliminar, funcionou no ambiente Google colab.
+
 🚀 Próximos Passos
 Em andamento.
