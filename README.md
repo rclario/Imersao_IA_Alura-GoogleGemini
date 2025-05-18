@@ -47,5 +47,7 @@ Rogério de Cerqueira Lario
 ✨ Status do Projeto
 Preliminar, funcionou no ambiente Google colab.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<seu_nome_de_usuario>/<nome_do_repositorio>/blob/<branch_principal>/<caminho_do_notebook>.ipynb)
+
 🚀 Próximos Passos
 Em andamento.
